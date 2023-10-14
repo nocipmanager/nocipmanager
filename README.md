@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Olá, me chamo Paulo Henrique
 
-<!--
-**nocipmanager/nocipmanager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Administrador de Redes por profissão, 👨‍💻 Desenvolvedor nas horas vagas.
 
-Here are some ideas to get you started:
+### 📚 Aprendizado Contínuo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Sempre aprendendo e aprimorando minhas habilidades em administração de redes e desenvolvimento.
+
+### 📫 Entre em Contato
+
+- 📧 Email: contato@ipmanager.com.br
+
+### 🌍 Let's Connect
+
+Fique à vontade para entrar em contato comigo para discussões técnicas, colaborações ou apenas para bater um papo sobre redes, programação e tecnologia. Vamos aprender e crescer juntos! 😄
