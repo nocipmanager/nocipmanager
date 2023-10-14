@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Paulo Henrique
 
-🌐 Administrador de Redes por profissão, 👨‍💻 Desenvolvedor nas horas vagas.
+🌐 Administrador de Redes e Desenvolvedor nas horas vagas.
 
 ### 📚 Aprendizado Contínuo
 
